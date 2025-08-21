@@ -1,0 +1,27 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "learning bootstrap v5 ith sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Bootstrap",
+    "bootstrap-v",
+    "sass",
+    "learn-bootstrap",
+    "learn-sass"
+  ],
+  "author": "Purvi GUpta",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.90.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^7.0.0",
+    "autoprefixer": "^10.4.21",
+    "bootstrap": "^5.3.7",
+    "postcss-cli": "^11.0.1"
+  }
+}
